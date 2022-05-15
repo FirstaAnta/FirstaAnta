@@ -1,0 +1,4 @@
+- 👋 Hi, I’m FirstaAnta
+- 👀 I’m interested in Maths, Geography, Business and IT technologies
+- 🌱 I’m currently learning HTML, CSS, JavaScrilt
+- 📫 If you have any questions, send messages on helpmefirstaanta@gmail.com
